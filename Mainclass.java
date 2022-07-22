@@ -50,6 +50,9 @@ class Person {
     this.name = name; //same name variable arg
   }
 
+  
+  ok
+    
   void walk() {
     System.out.println(name + " is walking");
   }
